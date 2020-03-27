@@ -4,6 +4,7 @@
     <list default="true" id="d35b3862-f902-4f81-9704-12ff16dd240d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="470" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585299684526">
+      <screen x="25" y="23" width="1415" height="877" />
+    </state>
+    <state x="470" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/25.23.1415.877@25.23.1415.877" timestamp="1585299684526" />
     <state width="1374" height="217" key="GridCell.Tab.0.bottom" timestamp="1585263514538">
       <screen x="25" y="23" width="1415" height="877" />
     </state>
@@ -94,9 +99,9 @@
       <screen x="25" y="23" width="1415" height="877" />
     </state>
     <state width="1374" height="217" key="GridCell.Tab.0.right/25.23.1415.877@25.23.1415.877" timestamp="1585263514537" />
-    <state x="387" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1585263569213">
+    <state x="387" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1585298638118">
       <screen x="25" y="23" width="1415" height="877" />
     </state>
-    <state x="387" y="296" key="com.intellij.ide.util.TipDialog/25.23.1415.877@25.23.1415.877" timestamp="1585263569213" />
+    <state x="387" y="296" key="com.intellij.ide.util.TipDialog/25.23.1415.877@25.23.1415.877" timestamp="1585298638118" />
   </component>
 </project>
