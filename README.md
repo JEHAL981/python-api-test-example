@@ -10,10 +10,10 @@ Flask
 Pytest
 
 Installation
-To install the test suite locally, including the above npm dependencies:
+To install the test suite locally, including the above pip dependencies:
 
 Clone this repository.
-Run npm install from the root directory of this repository.
+Run pipenv install from the root directory of this repository.
 Local
 To run the tests locally against the test portal environment:
 
