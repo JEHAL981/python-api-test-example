@@ -10,7 +10,7 @@ Flask
 Pytest
 
 ### Installation
-----------------
+
 To install the test suite locally, including the above pip dependencies:
 
 Clone this repository.
