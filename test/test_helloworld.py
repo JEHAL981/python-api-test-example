@@ -1,4 +1,4 @@
-from HelloWolrd import app
+from HelloWorld import app
 
 
 def test_hello_world_should_return_200_status():
